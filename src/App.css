@@ -29,7 +29,7 @@ body {
 }
 
 .numbers.wrong {
-  color: red;
+  color: rgb(255, 0, 230);
   animation: shake 0.3s;
 }
 
